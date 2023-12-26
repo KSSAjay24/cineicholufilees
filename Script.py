@@ -132,11 +132,10 @@ I can't find the <b>{}</b> in my database! 🥲
 /id - to check group or channel id
 /openai - Find solution to any question with ChatGPT</b>"""
 
-    SOURCE_TXT = """<b>ʙᴏᴛɢɪᴛʜᴜʙ ʀᴇᴘᴏsɪᴛᴏʀʏ -
-
+   
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
 
-- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta>ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/KSSAjay24/cineicholufilees/tree/main>ʜᴇʀᴇ</a>
 
 ᴅᴇᴠʟᴏᴘᴇʀ -
 <a href=https://telegram.me/movielover_4>Movie Lover</a>
