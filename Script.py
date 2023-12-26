@@ -6,9 +6,9 @@ class script(object):
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: Hansaka Anuhas
-★ Username: @Hansaka_Anuhas
-★ ID: <code>5493832202</code>
+    MY_OWNER_TXT = """★ Name: Movie Lover
+★ Username: @movielover_4
+★ ID: <code>5505644708</code>
 ★ Country: Sri Lanka 🇱🇰"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
@@ -139,5 +139,4 @@ I can't find the <b>{}</b> in my database! 🥲
 - ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/HansakaAnuhas-TG/AutoFilterBot-Beta>ʜᴇʀᴇ</a>
 
 ᴅᴇᴠʟᴏᴘᴇʀ -
-<a href=https://telegram.me/Hansaka_Anuhas>ʜᴀɴsᴀᴋᴀ</a>
-<a href=https://telegram.me/Technicalaks123>ᴀᴋs</a></b>"""
+<a href=https://telegram.me/movielover_4>Movie Lover</a>
